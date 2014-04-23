@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Desktop.iml" filepath="$PROJECT_DIR$/../Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOIO APIs/IOIO APIs.iml" filepath="$PROJECT_DIR$/../IOIO APIs/IOIO APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOIOEPQ.iml" filepath="$PROJECT_DIR$/IOIOEPQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOIO APIs/IOIOLib/IOIOLib.iml" filepath="$PROJECT_DIR$/../IOIO APIs/IOIOLib/IOIOLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOIO APIs/IOIOLibBT/IOIOLibBT.iml" filepath="$PROJECT_DIR$/../IOIO APIs/IOIOLibBT/IOIOLibBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOIO APIs/IOIOLib/target/android/android.iml" filepath="$PROJECT_DIR$/../IOIO APIs/IOIOLib/target/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IOIO APIs/IOIOLib/target/target.iml" filepath="$PROJECT_DIR$/../IOIO APIs/IOIOLib/target/target.iml" />
+    </modules>
+  </component>
+</project>
+
