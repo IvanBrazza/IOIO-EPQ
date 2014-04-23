@@ -13,4 +13,5 @@ TODO
 ----------------------------
 
 -> Finish implementing automatic pairing with the IOIO board
+
 -> Implement the new [Motor Control](https://github.com/ytai/ioio/wiki/Motor-control) API recently implemented in the IOIO APIs
